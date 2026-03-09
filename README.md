@@ -178,8 +178,4 @@ This project was created as part of a **DevOps subject assignment** to demonstra
 3. Continuous Integration with **GitHub Actions**
 4. Continuous Deployment with **Netlify**
 
----
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
